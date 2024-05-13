@@ -62,8 +62,9 @@ public:
     void start()
     {
         // The first few lines are only printed once.
-        cout << "\t\t\tWELCOME TO MEMORY - THE CARD GAME" << endl
+        cout << "\t\t\tWELCOME TO CardCraft - A MEMORY CARD GAME" << endl
              << endl;
+
 
         // Select game
         cout << "Please enter your first name: ";
