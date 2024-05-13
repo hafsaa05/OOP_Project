@@ -1,4 +1,4 @@
-# Project Report: Memory Card Game
+# Project Report: CardCraft - A MEMORY CARD GAME
 # Team Members:
  ### Arwa Feroze (23K-0022)
  ### Hafsa Rashid (23K-0064)
